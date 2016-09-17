@@ -24,4 +24,10 @@
     <string name="fEmail">Email</string>
     <string name="fPassword">Password</string>
     <string name="fRepitePassword">Repite Password</string>
+
+    <!-- Tipos de movimientos -->
+    <string-array name="tipo_movimiento_array">
+        <item>Recarga</item>
+        <item>Pago</item>
+    </string-array>
 </resources>
